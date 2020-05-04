@@ -11,8 +11,8 @@
 
     <license>Apache 2.0</license>
     <keywords>microsoft, authentication, windows, ntlm</keywords>
-    <repo>https://github.com/msopentech/cordova-plugin-auth-dialog</repo>
-    <issue>https://github.com/msopentech/cordova-plugin-auth-dialog/issues</issue>
+    <repo>https://github.com/MauroIT/cordova-plugin-auth-dialog</repo>
+    <issue>https://github.com/MauroIT/cordova-plugin-auth-dialog/issues</issue>
 
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
