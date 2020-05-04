@@ -4,10 +4,10 @@
  Licensed under the Apache License, Version 2.0.  See License.txt in the project root for license information.
 -->
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
-    id="com.msopentech.authdialog" version="0.1.0-dev">
+    id="com.msopentech.authdialog" version="0.1.6">
 
     <name>Authentication Dialog</name>
-    <description>Adds support for authentication dialogs into Apache Cordova</description>
+    <description>Adds support for authentication dialogs into Apache Cordova (Phonegap build support added)</description>
 
     <license>Apache 2.0</license>
     <keywords>microsoft, authentication, windows, ntlm</keywords>
