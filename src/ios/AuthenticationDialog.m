@@ -165,7 +165,7 @@ CredentialsViewController * credentialsViewController;
     
     // TODO consider using UIAlertController (available starting from iOS 8.0)
     UIAlertView* view = [[UIAlertView alloc] initWithTitle:@"Authentifizierung erforderlich"
-                       message: uri
+                       message:@"Bitte Windowskennung eingeben"
                       delegate: self
              cancelButtonTitle:@"Abbrechen"
              otherButtonTitles:nil];
